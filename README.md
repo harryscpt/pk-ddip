@@ -1,4 +1,4 @@
-# pk-ddip
+# PK-DDIP
 The PK-DDIP (pharmacokinetic drug-drug interaction prediction) model is a model for quantitative DDI prediction with high accuracy, while constructing a highly reliable PK-DDI database. In this repository, users can check the PK-DDI DB and code files used to develop the PK-DDIP model.
 
 
