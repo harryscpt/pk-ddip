@@ -6,7 +6,7 @@ The PK-DDIP (pharmacokinetic drug-drug interaction prediction) model is a model 
 PK DDI information (perpetrator drug (d1), d1Code, victim drug (d2), d2Code, AUC FC)
 
 
-# Code
+# PK-DDIP model
 Workspace Variables
 
 1. bag: bagOfWords of 2830 tokens
@@ -16,5 +16,5 @@ Workspace Variables
 5. vectorPOLY: The vectorPOLY digraph shows The binding relationship between a drug and target/enzyme/carrier/transporter
 
 Example
->>load('DDIDATA_v2.mat');
->>allpairprediction(list,PD,vectorPOLY,bag,trainedModel,"/home/usr/alllll.txt");
+load('DDIDATA_v2.mat');
+allpairprediction(list,PD,vectorPOLY,bag,trainedModel,"/home/usr/alllll.txt");
