@@ -3,7 +3,7 @@ The PK-DDIP (pharmacokinetic drug-drug interaction prediction) model is a model 
 
 
 # PK-DDI DB.xlsx
-PK DDI information (perpetrator drug (d1), d1Code, victim drug (d2), d2Code, AUC FC)
+PK DDI information (perpetrator drug (d1), victim drug (d2), AUC FC)
 
 
 # PK-DDIP model
